@@ -15,8 +15,6 @@ cd Desktop, mkdir projects
 
  Fork and Clone this repository into your projects folder on your Desktop.
  Click the link and navigate to the "Fork" button toward's the top right of the screen. See img....
-
-
 [intro-to-CSS3](git@github.com:Wigan-Coding-Meet-Up/intro-to-css3.git)
 
 
