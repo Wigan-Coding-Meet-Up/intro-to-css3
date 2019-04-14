@@ -15,12 +15,11 @@ cd Desktop, mkdir projects
 
  Fork and Clone this repository into your projects folder on your Desktop.
  Click the link and navigate to the "Fork" button toward's the top right of the screen. See img....
- ___
+ 
 
-[Intro-to-CSS3](https://github.com/Wigan-Coding-Meet-Up/intro-to-css3.git)
+* [Intro-to-CSS3](https://github.com/Wigan-Coding-Meet-Up/intro-to-css3.git)
 
-
- ![](Images/Forking.png)
+ ![](assets/Images/Forking.png)
 
  If you are un-aware how to Fork or Clone a repository at this point, then please read:
 
@@ -29,7 +28,7 @@ cd Desktop, mkdir projects
 
 Then clone the repository. Click the button and copy the link.
 
- ![](Images/Cloning.png)
+ ![](assets/Images/Cloning.png)
 
  Then in your Terminal, navigate to your projects folder and clone down the repository.
 
