@@ -66,4 +66,4 @@ You should now see a blank page in the browser with a welcome message.
 
 ## Authors
 
-* **Ryan Brockley** - projects - [GitHub](https://github.com/RyBrockers)
+**Ryan Brockley** - projects - [GitHub](https://github.com/RyBrockers)
