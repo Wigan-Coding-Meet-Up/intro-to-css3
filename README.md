@@ -19,7 +19,7 @@ cd Desktop, mkdir projects
 
 * [Intro-to-CSS3](https://github.com/Wigan-Coding-Meet-Up/intro-to-css3.git)
 
- ![](assets/Images/Forking.png)
+ ![](assets/Images/Forking1.png)
 
  If you are un-aware how to Fork or Clone a repository at this point, then please read:
 
